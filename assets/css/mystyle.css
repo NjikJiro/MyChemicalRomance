@@ -1,0 +1,81 @@
+.banner-image {
+    background-image: url("../img/wall.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.utama {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+.seken {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+}
+
+.warnavbar {
+    background-color: rgb(8, 8, 8);
+}
+
+.nav-nji{
+    text-decoration: none;
+}
+
+.nav-nji:hover {
+    text-decoration: underline;
+}
+
+.bb {
+    background-color: rgb(247, 247, 247);
+}
+
+.par1 {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+p {
+    font-family: "Montserrat", sans-serif;
+}
+
+.footer {
+    font-family: "Montserrat", sans-serif;
+}
+
+.parallax1 {
+    background-image: url("../img/con1.png");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.band-profile:hover {
+    background-color: rgb(239, 239, 239);
+}
+
+.parallax2 {
+    background-image: url("../img/con2.png");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-nji{
+    background-color: rgb(8, 8, 8);
+    color: white;
+}
+
+.btn-nji:hover{
+    background-color: rgb(33, 32, 32);
+    color: white;
+}
+
+.foot {
+    font-family: "Montserrat", sans-serif;
+}
+
